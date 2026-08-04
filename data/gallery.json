@@ -1,8 +1,26 @@
 {
   "_meta": {
     "type": "gallery",
-    "version": 1,
+    "version": 2,
     "updatedAt": "2026-08-04"
   },
-  "items": []
+  "items": [
+    {
+      "id": "med_1785818130567_nb5",
+      "filename": "gallery_20260804_001.webp",
+      "folder": "gallery",
+      "type": "image",
+      "width": 608,
+      "height": 1080,
+      "size": 33044,
+      "hash": "1faaac8",
+      "created": "2026-08-04",
+      "originalName": "gen-h-img.jpg",
+      "mimeType": "image/webp",
+      "duration": null,
+      "favorite": false,
+      "tags": [],
+      "usedIn": []
+    }
+  ]
 }
