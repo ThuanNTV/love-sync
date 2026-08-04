@@ -1,17 +1,21 @@
 {
-  "_meta": { "type": "music", "version": 1, "updatedAt": "2026-08-04" },
+  "_meta": {
+    "type": "music",
+    "version": 1,
+    "updatedAt": "2026-08-04"
+  },
   "playlists": {
-    "morning":     [],
-    "afternoon":   [],
-    "evening":     [],
-    "night":       [],
-    "relax":       [],
-    "romantic":    [],
-    "rain":        [],
-    "birthday":    [],
+    "morning": [],
+    "afternoon": [],
+    "evening": [],
+    "night": [],
+    "relax": [],
+    "romantic": [],
+    "rain": [],
+    "birthday": [],
     "anniversary": [],
-    "sleep":       [],
-    "focus":       []
+    "sleep": [],
+    "focus": []
   },
   "items": []
 }
