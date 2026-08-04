@@ -1,12 +1,16 @@
 {
-  "_meta": { "type": "wallpaper", "version": 1, "updatedAt": "2026-08-04" },
+  "_meta": {
+    "type": "wallpaper",
+    "version": 1,
+    "updatedAt": "2026-08-04"
+  },
   "slots": {
-    "morning":   null,
+    "morning": null,
     "afternoon": null,
-    "evening":   null,
-    "night":     null,
-    "special":   null,
-    "random":    null
+    "evening": null,
+    "night": null,
+    "special": null,
+    "random": null
   },
   "items": []
 }
