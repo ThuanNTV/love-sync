@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-08-04T04:32:27.240Z",
+  "files": {
+    "gallery": {
+      "hash": "init",
+      "count": 0
+    },
+    "wallpaper": {
+      "hash": "init",
+      "count": 0
+    },
+    "music": {
+      "hash": "init",
+      "count": 0
+    },
+    "lottie": {
+      "hash": "init",
+      "count": 0
+    }
+  }
+}
